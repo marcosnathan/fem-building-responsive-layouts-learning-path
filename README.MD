@@ -1,6 +1,6 @@
 # Frontend Mentor - Building Responsive Layouts Learning Path
 
-Frontend Mentor has a pretty good way to make us learn by praticing while we solve frontend challenges. This repository hosts the challenges from the Newbie Learning Path from Frontend Mentor.
+Frontend Mentor has a pretty good way to make us learn by praticing while we solve frontend challenges. This repository hosts the challenges from the Building Responsive Layouts Learning Path from Frontend Mentor.
 
 ## Author
 
