@@ -32,17 +32,14 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    
+    padding: 4rem 3rem;
+    background-color: whitesmoke;
 }
 
 p {
   font-weight: 200;
 }
 
-.wrapper {
-    padding: 4rem 1rem;
-    background-color: whitesmoke;
-}
 
 .header { 
     display: flex;
