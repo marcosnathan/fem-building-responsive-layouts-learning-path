@@ -26,16 +26,22 @@ html {
     --color-white: hsl(0, 0%, 100%);
     --size-medium: 1.5rem;
     --font-size: 1rem;
-    --feature-width: 24rem;
+    --feature-width: 30rem;
     --feature-height: 18rem;
 }
 
 body {
     font-family: 'Poppins', sans-serif;
+    
 }
 
 p {
   font-weight: 200;
+}
+
+.wrapper {
+    padding: 4rem 1rem;
+    background-color: whitesmoke;
 }
 
 .header { 
@@ -88,6 +94,7 @@ p {
     border-radius: 5px;
     padding: 2rem;
     border-top: 4px solid var(--item-color);
+    background-color: var(--color-white);
 }
 
 .feature-title {
