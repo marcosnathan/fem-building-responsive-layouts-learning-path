@@ -2,6 +2,8 @@
 
 Frontend Mentor has a pretty good way to make us learn by praticing while we solve frontend challenges. This repository hosts the challenges from the Building Responsive Layouts Learning Path from Frontend Mentor.
 1. [Product preview card component](./product-preview-card-component-main/index.html)
+2. [Four card feature section](./four-card-feature-section-master/index.html)
+
 ## Author
 
 - Frontend Mentor - [@marcosnathan](https://www.frontendmentor.io/profile/marcosnathan)
